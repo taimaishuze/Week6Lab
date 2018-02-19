@@ -23,7 +23,7 @@ sudo dmesg | grep -i CPU
 sleep 5s
 
 echo "Displaying USB information..."
-echo"
+echo ""
 sudo dmesg | grep -i USB
 sleep 5s
 
