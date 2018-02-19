@@ -29,7 +29,7 @@ sleep 5s
 
 echo "Need some help?  Try using some of these additional commands..."
 echo ""
-sudo dmesg - h | less
+sudo dmesg -h | less
 sleep 5s
 
 echo "This concludes my Week 6 Lab, please feel free to let me know if you have any questions.  Thank you."
