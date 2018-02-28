@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 # Vang Lee
 
 # Week 6 CSCI 2461 Computer Networking 2 - Linux
